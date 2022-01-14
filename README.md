@@ -3,3 +3,11 @@ Ray Khorsandi
 | Topic | Exercise | Solution |
 |---------|-------------|-------------|
 | intro to python  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/python-exercise-project/blob/main/programming-1-exercise.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/python-exercise-project/blob/main/programming-1.ipynb) |
+
+| intro to python  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/python-exercise-project/blob/main/programming-1-exercise.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/python-exercise-project/blob/main/programming-1.ipynb) |
+
+| intro to python  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/python-exercise-project/blob/main/programming-1-exercise.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/python-exercise-project/blob/main/programming-1.ipynb) |
+
+| intro to python  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/python-exercise-project/blob/main/programming-1-exercise.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/python-exercise-project/blob/main/programming-1.ipynb) |
+
+| intro to python  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/python-exercise-project/blob/main/programming-1-exercise.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/python-exercise-project/blob/main/programming-1.ipynb) |
